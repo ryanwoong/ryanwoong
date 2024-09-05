@@ -1,7 +1,5 @@
 
-<p align="center">
-# Hello, I'm Ryan 👋
-</p>
+<h1 align="center">Hello, I'm Ryan Wong 👋</h1>
 
 ## About Me
 - 🎓 3rd year Computer Science student at the University of Calgary
