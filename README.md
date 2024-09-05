@@ -1,4 +1,7 @@
+
+<p align="center">
 # Hello, I'm Ryan 👋
+</p>
 
 ## About Me
 - 🎓 3rd year Computer Science student at the University of Calgary
@@ -7,9 +10,9 @@
 
 ## My Projects
 Currently I'm working on:
-- Learning!
+- 🧠 Learning!
 
 Past Projects:
-- [Social Discord Bot](https://github.com/ryanwoong/Social-Discord-Bot): A Discord bot coded in JS
-- [Car Catalog](https://github.com/ryanwoong/car-catalog): A website to display your model cars as a catalog
-- [Music Application](https://github.com/ryanwoong/Music-App-IA): Created as part of my International Baccalaureate Program's Internal Assessment
+- 🤖 [Social Discord Bot](https://github.com/ryanwoong/Social-Discord-Bot): A Discord bot coded in JS
+- 🚗 [Car Catalog](https://github.com/ryanwoong/car-catalog): A website to display your model cars as a catalog
+- 🎵 [Music Application](https://github.com/ryanwoong/Music-App-IA): Created as part of my International Baccalaureate Program's Internal Assessment
