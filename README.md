@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hello, I'm Ryan 👋
 
-<!--
-**ryanwoong/ryanwoong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+- 🎓 3rd year Computer Science student at the University of Calgary
+- 🌱 Currently learning about machine learning
+- 💻 Passionate about learning how technology impacts and functions as apart of our daily lives
 
-Here are some ideas to get you started:
+## My Projects
+Currently I'm working on:
+- Learning!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Past Projects:
+- [Social Discord Bot](https://github.com/ryanwoong/Social-Discord-Bot): A Discord bot coded in JS
+- [Car Catalog](https://github.com/ryanwoong/car-catalog): A website to display your model cars as a catalog
+- [Music Application](https://github.com/ryanwoong/Music-App-IA): Created as part of my International Baccalaureate Program's Internal Assessment
