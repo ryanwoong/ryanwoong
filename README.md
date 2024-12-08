@@ -33,6 +33,8 @@ Currently I'm working on:
 - 🧠 Learning!
 
 Past Projects:
+- 🎮 [Front-end PetPals](https://github.com/ryanwoong/PetPals): Hackathon submission for Hack The Change 2024, placed 2nd in the hackathon.
+- 🎮 [Back-end PetPals](https://github.com/ryanwoong/PetPals-backend)
 - 🤖 [Social Discord Bot](https://github.com/ryanwoong/Social-Discord-Bot): A Discord bot coded in JS
 - 🚗 [Car Catalog](https://github.com/ryanwoong/car-catalog): A website to display your model cars as a catalog
 - 🎵 [Music Application](https://github.com/ryanwoong/Music-App-IA): Created as part of my International Baccalaureate Program's Internal Assessment
