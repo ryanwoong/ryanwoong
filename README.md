@@ -31,7 +31,8 @@
 
 Currently I'm working on:
 - 🧠 Learning!
-- Nude Solutions internship
+- Cooking at [rjw labs](https://github.com/rjwlabs) where I post most my projects (if not on my own profile)
+- Interning at Nude Solutions!
 
 Past Projects:
 - 🎮 [Front-end PetPals](https://github.com/ryanwoong/PetPals): Hackathon submission for Hack The Change 2024, placed 2nd overall in the hackathon.
