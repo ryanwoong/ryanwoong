@@ -20,6 +20,7 @@
 - 🎓 3rd year Computer Science student at the University of Calgary
 - 🌱 Currently learning about machine learning
 - 💻 Passionate about learning how technology impacts and functions as apart of our daily lives
+- Sometimes I post on my [YouTube](https://www.youtube.com/@ryanwoong) channel, so check it out!
 -----
 <div id="toc">
   <ul style="list-style: none">
@@ -32,7 +33,7 @@
 Currently I'm working on:
 - 🧠 Learning!
 - Cooking at [rjw labs](https://github.com/rjwlabs) where I post most my projects (if not on my own profile)
-- Interning at Nude Solutions!
+- Interning at Modular Solutions!
 
 Past Projects:
 - 🎮 [Front-end PetPals](https://github.com/ryanwoong/PetPals): Hackathon submission for Hack The Change 2024, placed 2nd overall in the hackathon.
