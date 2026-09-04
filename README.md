@@ -17,7 +17,7 @@
   </ul>
 </div>
 
-- 🎓 3rd year Computer Science student at the University of Calgary
+- 🎓 5th year Computer Science major with a minor in Management and Society at the University of Calgary (was on internship)!
 - 🌱 Currently learning about machine learning
 - 💻 Passionate about learning how technology impacts and functions as apart of our daily lives
 - Sometimes I post on my [YouTube](https://www.youtube.com/@ryanwoong) channel, so check it out!
@@ -31,7 +31,7 @@
 </div>
 
 Currently I'm working on:
-- 🧠 Learning!
+- [rymo](https://www.youtube.com/watch?v=MgRekuT9zlw)
 - Cooking at [rjw labs](https://github.com/rjwlabs) where I post most my projects (if not on my own profile)
 - Interning at Modular Solutions!
 
